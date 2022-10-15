@@ -32,6 +32,10 @@ function alphabetPosition(text) {
             nit += " "
         }
 
+        else if(isNaN == false) {
+            nit += y
+        }
+
         else {
             a = y
             switch(a) {
